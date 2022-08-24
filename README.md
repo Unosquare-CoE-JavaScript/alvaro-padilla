@@ -6,13 +6,13 @@
 
   - Resource Type: Book.
     - Author: Kyle Simpson.
-    - Percentage Completion: 95%.
+    - Percentage Completed: 95%.
 
 - :orange_book: You don't know JS yet: Scopes & Closures (YDKJSY: Scopes & Closures).
 
   - Resource Type: Book.
     - Author: Kyle Simpson.
-  - Percentage Completion: 75%.
+  - Percentage Completed: 75%.
 
 - :computer: Asynchronous JavaScript Deep Dive.
 
