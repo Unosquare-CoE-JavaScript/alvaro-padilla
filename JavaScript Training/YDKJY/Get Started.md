@@ -44,6 +44,64 @@ Strict mode is a mechanism to encourage developers to write better JS programs. 
 
 > _"The best way to learn JS is to start writing JS"_ - Kyle Simpson
 
+In JS each file is a separate program. This ensures that if a file has an error other files will be processed without issues, the application will surely not work as expected, however is important to make that disctintion.
+
+JS has the "global scope" which is the space where all files can connect between each other.
+
+In a sentence each JS file is a mini program working together with other mini programs.
+
+The most fundamental unit of information is a value. Values are data. There are two forms of these values:
+
+- Primitive
+  - string
+  - number
+  - boolean
+  - bigint
+  - null
+  - undefined
+  - symbol
+- Object
+  - Collection of properties, where each property is defined as a key-value pair.
+
+Values can be presented as literal, or they can be stored in a variable. Variables need to be declared in order to be used (the value they held). We have 3 ways to declare variables
+
+- var
+- let
+- const
+
+In JS, a function = procedure. A procedure is a collection of statementsthan can be invoked one or more times, may be provided some inputs (parameters), and may give back one or more outputs (using object/array).
+
+The Comparison operators are mainly used to perform the logical operations that determine the equality or difference between the values. There are two comparison operators supported by JS:
+
+- Equality Operator
+
+  - Strict equality (===)
+
+    Disallows any sort of type conversion ("Coercion").
+
+  - Loose equality (==)
+
+    Allows values to be converted to its respective representation in another type ("42" &rarr; 42).
+
+- Relational Operator
+  - Greater than (>)
+  - Greater that or equal (>=)
+  - Less than (<)
+  - Less than or equal (<=)
+
+There are two major patterns for organizing/structure code in JS.
+
+- Classes (OOP)
+
+  A class is a definition of a custom data structure, which includes both data (values) and behavior (logic). With this structure we can use some trades of the OOP:
+
+  - Inheritance
+  - Polymorphism
+
+- Modules
+
+  Modules are similar to classes in terms on how they structure data, the most notorious difference is the syntax. (Use of "this" and "new").
+
 ## Chapter 3: Digging the roots of JS
 
 ## Chapter 4: The Bigger Picture
