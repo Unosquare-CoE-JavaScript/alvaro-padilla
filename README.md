@@ -12,14 +12,14 @@
 
   - Resource Type: Book.
     - Author: Kyle Simpson.
-  - Percentage Completed: 75%.
+  - Percentage Completed: 85%.
 
 - :computer: Asynchronous JavaScript Deep Dive.
 
   - Resource Type: Udemy Course.
     - Author: Steven Hancock.
     - URL: <https://www.udemy.com/course/asynchronous-javascript-deep-dive/>
-  - Percentage Completed: 20%
+  - Percentage Completed: 30%
 
 - :computer: Hardcore Functional Programming in JavaScript, v2.
 
