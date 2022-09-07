@@ -19,7 +19,7 @@
   - Resource Type: Udemy Course.
     - Author: Steven Hancock.
     - URL: <https://www.udemy.com/course/asynchronous-javascript-deep-dive/>
-  - Percentage Completed: 65%
+  - Percentage Completed: 100% - **[Certificate](https://www.udemy.com/certificate/UC-8c2448a4-6e82-41a4-86ff-2ff00907bce3/)**
 
 - :computer: Hardcore Functional Programming in JavaScript, v2.
 
