@@ -33,7 +33,7 @@
   - Resource Type: Udemy Course.
     - Author: Angular University.
     - URL: <https://www.udemy.com/course/angular-testing-course/>
-  - Percentage Completed: 0%
+  - Percentage Completed: 21%
 
 - [ ] :computer: Production-Grade Angular.
   - Resource Type: Front-End Masters Course.
