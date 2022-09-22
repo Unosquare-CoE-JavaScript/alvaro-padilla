@@ -26,14 +26,14 @@
   - Resource Type: Front-End Masters Course.
     - Author: Brian Lonsdorf.
     - URL: <https://frontendmasters.com/courses/hardcore-js-v2/>
-  - Percentage Completed: 0%
+  - Percentage Completed: 50%
 
 - [ ] :computer: Angular Testing Masterclass.
 
   - Resource Type: Udemy Course.
     - Author: Angular University.
     - URL: <https://www.udemy.com/course/angular-testing-course/>
-  - Percentage Completed: 21%
+  - Percentage Completed: 35%
 
 - [ ] :computer: Production-Grade Angular.
   - Resource Type: Front-End Masters Course.
