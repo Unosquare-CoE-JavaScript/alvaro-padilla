@@ -28,15 +28,15 @@
     - URL: <https://frontendmasters.com/courses/hardcore-js-v2/>
   - Percentage Completed: 50%
 
-- [ ] :computer: Angular Testing Masterclass.
+- [x] :computer: Angular Testing Masterclass.
 
   - Resource Type: Udemy Course.
     - Author: Angular University.
     - URL: <https://www.udemy.com/course/angular-testing-course/>
-  - Percentage Completed: 35%
+  - Percentage Completed: 100% - **[Certificate](https://www.udemy.com/certificate/UC-2ed07093-ea45-4150-b7c9-b0ef3d613cd1/)**
 
 - [ ] :computer: Production-Grade Angular.
   - Resource Type: Front-End Masters Course.
     - Author: Lukas Ruebbelke.
     - URL: <https://frontendmasters.com/courses/production-angular/>
-  - Percentage Completed: 0%
+  - Percentage Completed: 20%
